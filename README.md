@@ -29,4 +29,5 @@ To get a local copy up and running, follow these steps.
    ```
 2. Go into both backend and client folders and run
     ``` bash
+    npm install
     npm run start
