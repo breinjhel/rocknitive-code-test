@@ -27,6 +27,6 @@ To get a local copy up and running, follow these steps.
    ```bash
    git clone https://github.com/breinjhel/rocknitive-code-test.git
    ```
-2. Go into both backend and frontend folders and run
+2. Go into both backend and client folders and run
     ``` bash
     npm run start
